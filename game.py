@@ -2,7 +2,7 @@ import pygame
 pygame.init()
 
 win = pygame.display.set_mode((720,600))
-pygame.display.set_caption("Game of Squares")
+pygame.display.set_caption("Square Survival")
 
 bluex = 200
 bluey = 200
